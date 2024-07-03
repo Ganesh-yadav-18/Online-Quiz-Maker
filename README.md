@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for an online quiz maker built using HTML, CSS, and JavaScript. You can customize this template to fit your specific project:
-
----
-
 # Online Quiz Maker
 
 Create and manage quizzes with this simple online quiz maker. Users can answer questions, receive scores, and enjoy an interactive quiz experience.
